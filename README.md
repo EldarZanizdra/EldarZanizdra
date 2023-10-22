@@ -1,16 +1,23 @@
 ### Hi there 👋
 
+Мене звати [Ваше Ім'я].
+
+🔭 В даний момент я працюю над:
+
+- Веб-сайтом Flask для [Щоб продавати Funko Pop].
+
+🌱 Вивчаю:
+
+- [Python, а саме вивчаю фреймворк Django].
+
+📫 Зв'язок:
+
+- Для зв'язку зі мною ви можете надіслати лист на [zanizdra.eldar@gmail.com]
+
+😄 Прикмета:
+
+- [Я дуже люблю вчитися та програмувати, ще я граю на гітарі і читаю книжки].
+
 <!--
 **EldarZanizdra/EldarZanizdra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
