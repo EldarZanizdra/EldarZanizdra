@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 
  **Мене звати Ельдар**.
 
@@ -18,6 +18,6 @@
 
 - Я дуже люблю вчитися та програмувати, ще я граю на гітарі і читаю книжки.
 
-<!--
+
 **EldarZanizdra/EldarZanizdra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
